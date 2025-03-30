@@ -26,5 +26,7 @@ Update
 $ npm install appwrite@14.0.1
 ```
 
+## 03 Creating New Documents
 
+...
 
