@@ -38,3 +38,7 @@ $ npm install appwrite@14.0.1
 
 ...
 
+## 06 Realtime
+
+...
+
