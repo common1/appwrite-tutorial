@@ -30,3 +30,7 @@ $ npm install appwrite@14.0.1
 
 ...
 
+## 04 Fetching Documents
+
+...
+
