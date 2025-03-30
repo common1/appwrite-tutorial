@@ -34,3 +34,7 @@ $ npm install appwrite@14.0.1
 
 ...
 
+## 05 Deleting Documents
+
+...
+
